@@ -187,6 +187,28 @@ Thats’s all Folks! I hope it was simple to understand and implement. I also ha
 A special thanks to [this blogpost](https://www.r-bloggers.com/association-rule-learning-and-the-apriori-algorithm/), where I first learned the basics of implementing apriori in R. Also, this is my first attempt at writing a blog. Please feel free to reach out if you have any suggestions and comments.!   
 Thank you.   
 
-
+<table>
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Field</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">First column **fields**</td>
+<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+</tr>
+<tr>
+<td markdown="span">Second column **fields**</td>
+<td markdown="span">Some more descriptive text.
+</td>
+</tr>
+</tbody>
+</table>
 
 
