@@ -6,4 +6,5 @@ permalink: /about/
 
 ### Contact me
 
-[nupur.gulalkari@gmail.com](mailto:nupur.gulalkari@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/nupurgulalkari/)
+[gulalkari.n@husky.neu.edu](mailto:gulalkari.n@husky.neu.edu)
