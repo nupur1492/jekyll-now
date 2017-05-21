@@ -186,17 +186,3 @@ itemFrequencyPlot(txn, topN = 5)
 Thats’s all Folks! I hope it was simple to understand and implement. I also have my code on [github](https://github.com/nupur1492/RProjects/tree/master/MarketBasketAnalysis) if you dont want to type everything.   
 A special thanks to [this blogpost](https://www.r-bloggers.com/association-rule-learning-and-the-apriori-algorithm/), where I first learned the basics of implementing apriori in R. Also, this is my first attempt at writing a blog. Please feel free to reach out if you have any suggestions and comments.!   
 Thank you.   
-<style>
-table{
-    border-collapse: collapse;
-    border: 1px solid black;
-}
-
-th{
-   border: 1px solid black;
-}
-
-td{
-    border: 1px solid black;
-}
-</style>
