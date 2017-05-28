@@ -3,6 +3,8 @@ layout: post
 title: Implementing Apriori Algorithm in R
 ---
 
+Note : Originally publish in [DataSciencePlus](https://datascienceplus.com/implementing-apriori-algorithm-in-r/)
+
 There are a bunch of blogs out there posted that show how to implement apriori algorithm in R. However, when I was working on the same, I hit a roadblock since the data was neither in single format, nor in basket(Step 2 explains what a basket format is). I spent quite some time converting the data into the required format to be able to find the association rules.   
 So, here goes…
 
